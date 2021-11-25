@@ -1,0 +1,26 @@
+
+/*цвет текста заголовков #212121 */
+/*цвет основного текста #757575 */
+/*цвет кнопки main #2196F3 */
+/*цвет текста героя #FFFFFF*/
+
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #ffffff;
+  --navigation-color: #2196f3;
+}
+
+
+
+<!--Шапка сайта-->
+
+.logo {
+Font family: Raleway, sans serif;
+Font style: 700
+Font size: 26px
+Line height: 1.19
+text-decoration: none;
+}
+
+.logo-color { color: #2196f3;}
